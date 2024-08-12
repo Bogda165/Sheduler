@@ -1,0 +1,3 @@
+/Users/user/CLionProjects/sheduler/cmake-build-debug/CMakeFiles/sheduler.dir
+/Users/user/CLionProjects/sheduler/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/user/CLionProjects/sheduler/cmake-build-debug/CMakeFiles/rebuild_cache.dir
